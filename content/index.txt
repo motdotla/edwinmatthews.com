@@ -1,0 +1,97 @@
+---
+title:       Home Page
+created_at:  2008-08-02 14:06:40.000000 -06:00
+filter:
+  - erb
+  - textile
+---
+
+h2(catchphrase). A Flying Start
+
+p(catchphrase). Welcome to Flying Start Aviation Website. You have found a good place for information, and as the name implies, to get a 'flying start'.
+
+------------------------------------------------------------
+
+<div class="grid_9 alpha">
+	<h2 id="about">About</h2>
+</div>
+<div class="grid_3 omega">
+	<!-- Begin Scroll Buttons -->
+	<div class="scrollButtons"><a class="upButton" href="#home" title="Scroll Up">&uarr;</a> <a class="upButton" href="#tips" title="Scroll to Tips">&darr;</a></div>
+	<!-- End Scroll Buttons -->
+</div>
+<br class="clear" />
+
+<div class="grid_7 alpha">
+My name is Edwin J. Matthews, a flight instructor since 1973, and now a designated pilot examiner. I'm a dedicated flight instructor who strives to help everyone reach their personal goals in the exciting world of flight. From weekender sport pilot to commercial pilot, or flight instructor, you owe it to yourself to give me a call or email me with any questions you might have. You'll be glad you did!
+
+I built model airplanes as a 12yr old, only kid in my family that liked airplanes. I started to fly gliders at 14yrs of age and my first solo was in a glider at age 15 at the Great Western Soaring School in Pearblossom, CA - near Palmdale. I started flying powered airplanes at age 16 and received my private pilot certificate out of Van Nuys airport with DPE Adam Berg.
+
+I continued working and studying for my commercial and finally received my flight instructor certificate out of the Long Beach FAA FSDO in 1973. From then on I instructed for a living and flew for charter and smaller airlines. In 1990, I went to work for Easter Airlines as a first officer in a Boeing 727.
+
+I now have about 17,000 hours, 2700 multi-engine, tail wheel instructor, basic aerobatic instructor and also earned my A&P Certificate (FAA Licensed Airframe and Powerplant Mechanic).
+
+You can find me out at the Hemet-Ryan Airfield where I serve as the Chief Flight Instructor of the Hemet Flight Center.
+
+You can contact me at embirdman@yahoo.com or 951.663.0668.
+</div>
+
+<div id="about-photos" class="grid_5 omega">
+	<img src="/images/photo1.jpg" class="photo" />
+	<img src="/images/photo2.jpg" class="photo" />
+</div>
+
+------------------------------------------------------------
+
+<div class="grid_9 alpha">
+	<h2 id="tips">Checkride Tips</h2>
+</div>
+<div class="grid_3 omega">
+	<!-- Begin Scroll Buttons -->
+	<div class="scrollButtons"><a class="upButton" href="#home" title="Scroll Up">&uarr;</a> <a class="upButton" href="#links" title="Scroll to Links">&darr;</a></div>
+	<!-- End Scroll Buttons -->
+</div>
+<br class="clear" />
+
+1. Your instructor should schedule your checkride with me. I can give him a few tips over the phone at that time. Plan a four hour block of time for your checkride. 2.0 on the ground and 1.2 in flight. 0.8 for paperwork. Bring a snack lunch.
+
+2. IACRA - (Integrated Airman Certification and Rating Application) You and Your instructor will need to register and get an FTN # (FAA Tracking Number). Write down your username, password, and FTN # in your logbook.
+
+3. fill out application form (8710-1) at least 2 days prior to checkride with your instructor. Be very careful with the following:
+	1. Use full legal name - it should match your Student Pilot Certificate.
+	2. You must hold a Pilot Certificate - Student or higher.
+	3. Print the Medical Examiner's name exactly as shown with M.D or D.O.
+	4. List ALL PIC hours (Pilot in Command). SOLO hours are shown BOTH as Solo Time and PIC.
+	5. Dual time plus solo time should equal total time.
+
+4. Give me a call 2 days prior to your checkride with your FTN #.
+
+5. Use the Applicant Practical Test Checklist provided in the PTS (Practical Test Standards). Review this with your instructor.
+
+6. Double check required endorsements, including FAR 61.39a6, or 61.49 if a retest. Also, FAR 61.107a, Logged GROUND and Flight training in areas of operation that apply to the aircraft category and class rating sought. For Private ASEL, FAR 61.107b1(i thru xii).
+
+7. Flight Instructors that have a temporary certificate (recently issued) may not be in the IACRA database. In this case, fill out a paper 8710-1, except sport pilots use 8710-11. Make sure all dates are 8 digit including instructors expiration date.
+
+8. Always bring a current picture ID...a current driver's license, Military ID, or a current Passport., current knowledge test report and of course your logbook.
+
+9. Fee. $500 Cash Please. Retest is $300-500 depending on scope of retest required.
+
+------------------------------------------------------------
+
+<div class="grid_9 alpha">
+	<h2 id="links">Helpful Links</h2>
+</div>
+<div class="grid_3 omega">
+	<!-- Begin Scroll Buttons -->
+	<div class="scrollButtons"><a class="upButton" href="#home" title="Scroll Up">&uarr;</a> <a class="upButton" href="#links" title="Scroll to Links">&darr;</a></div>
+	<!-- End Scroll Buttons -->
+</div>
+<br class="clear" />
+
+* IACRA Website: "http://iacra.faa.gov/iacra/":http://iacra.faa.gov/iacra/
+* FAA: "http://www.faa.gov":http://www.faa.gov
+* Hemet Flight Center: "http://hemetflightcenter.com":http://hemetflightcenter.com
+* EAA: "http://www.eaa.org":http://www.eaa.org
+* AOPA (Aircraft Owners and Pilots Association): "http://www.aopa.org/":http://www.aopa.org/
+
+

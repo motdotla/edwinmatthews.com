@@ -1,0 +1,7 @@
+---
+filter: erb
+---
+<!-- Begin Scroll Buttons -->
+<div class="scrollButtons"><a class="upButton" href="#home" title="Scroll Up">&uarr;</a></div>
+<!-- End Scroll Buttons -->
+

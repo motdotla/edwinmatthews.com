@@ -1,0 +1,162 @@
+/* this is the master css we will use for styling */
+
+body {
+	background:url(/images/bg.png) no-repeat fixed 100% 100% #163c7d;
+	padding: 33px 0; font-size: 15px;
+}
+
+hr { color: #000; border-color: #000; }
+
+a{
+	color: #fff;
+	background-image: url(/images/photo-bg.png); padding: 2px;
+	}
+	
+a:hover{
+	background: blue;
+	}
+
+h2 {
+	color:#FFFFFF; font-weight: normal; 
+	margin-bottom: 3px;
+	margin-top: 0; padding-top: 20px;
+}
+
+.scrollButtons {
+	text-align: right;
+	margin: 0; padding: 0;
+	margin-top: -20px; margin-right: 10px;
+}
+.scrollButtons a {
+	color: #000; text-decoration: none; background: none; padding: 4px 8px 4px 8px;
+	background-image: url(/images/photo-bg.png);
+}
+.scrollButtons a:hover {
+	color: blue;
+}
+
+img.photo {
+	padding: 12px;
+	background-image: url(/images/photo-bg.png);
+	margin-bottom: 20px;
+}
+
+#page{
+	padding:0;
+	background:url(/images/page-bg.gif) repeat-x 0 0;
+	}
+	
+	
+#header{
+	height:88px;
+	margin:0 0 0 0;
+	padding:0;
+	}
+#header a {
+	background: none;
+}
+#header img{
+	float:right;
+	}	
+
+
+#navigation{
+	padding:38px 0 18px;
+	height:31px;
+	}
+	
+#navigation ul{
+	padding:0; margin:0;
+	list-style-type:none;
+	}
+	
+#navigation ul li{
+	line-height:31px;
+	float:left;
+	padding:0 20px 0 0;
+	margin:0
+	}
+	
+#navigation ul li.navEnd{
+	padding:0 0 0 0;
+	}
+	
+#navigation ul li a{
+	background: none;
+	font-size:18px;
+	line-height:31px;
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight:bold;
+	}
+	
+#navigation ul li a:hover{
+	color:#86b3ff;
+	}
+	
+h2.catchphrase {
+	padding: 38px 0 0 0;
+	font-size:36px;
+	font-weight: bold;
+	line-height:39px;
+	margin-bottom:10px;
+	color:#FFFFFF;
+}
+p.catchphrase {
+	padding-bottom: 25px;
+	line-height:31px;
+	font-size:30px;
+}
+	
+#bodyTop h2{
+	font-size:36px;
+	font-weight:bold;
+	line-height:39px;
+	margin-bottom:10px;
+	color:#FFFFFF;
+	}
+	
+#about-photos {
+	text-align: center;
+}
+	
+#footer {
+	margin-top: 120px;
+	color: #000; font-size: 11px;
+	font-weight: normal;
+}
+
+
+	
+	
+/*------------------- png solution for ie 6.0 -----------------------*/
+
+/*------ Direct Image ------*/
+	
+* html img,
+
+* html .png{
+
+    position:relative;
+
+    behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",
+
+        this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",
+
+        this.src = "images/transparent.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),
+
+        this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",
+
+        this.runtimeStyle.backgroundImage = "none")),this.pngSet=true)
+
+    );
+
+};
+
+
+-->
+
+
+	
+
+	
