@@ -10,8 +10,6 @@ h2(catchphrase). A Flying Start
 
 p(catchphrase). Welcome to Flying Start Aviation Website. You have found a good place for information, and as the name implies, to get a 'flying start'.
 
-p(catchphrase). $500
-
 ------------------------------------------------------------
 
 <div class="grid_9 alpha">
