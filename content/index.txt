@@ -10,6 +10,8 @@ h2(catchphrase). A Flying Start
 
 p(catchphrase). Welcome to Flying Start Aviation Website. You have found a good place for information, and as the name implies, to get a 'flying start'.
 
+p(catchphrase). $500
+
 ------------------------------------------------------------
 
 <div class="grid_9 alpha">
@@ -23,7 +25,18 @@ p(catchphrase). Welcome to Flying Start Aviation Website. You have found a good 
 <div class="clear"></div>
 
 <div class="grid_7 alpha">
-My name is <a href="mailto:embirdman@yahoo.com">Edwin J. Matthews</a>, a flight instructor since 1973, and now a designated pilot examiner. I'm a dedicated flight instructor who strives to help everyone reach their personal goals in the exciting world of flight. From weekender sport pilot to commercial pilot, or flight instructor, you owe it to yourself to give me a call or email me with any questions you might have. You'll be glad you did!
+<strong>My name is <a href="mailto:embirdman@yahoo.com">Edwin J. Matthews</a>, a flight instructor since 1973, and now a designated pilot examiner.</strong> I'm a dedicated flight instructor who strives to help everyone reach their personal goals in the exciting world of flight. From weekender sport pilot to commercial pilot, or flight instructor, you owe it to yourself to give me a call or email me with any questions you might have. You'll be glad you did!
+
+<div class="designated_flight_instructor">
+As a designed flight instructor I can also give check rides in the following areas. <strong>Checkrides are just $500.</strong>
+* Private Pilot
+* Sport Pilot
+* Commerical Pilot
+* Instrument Rating
+* Multi Engine Rating
+* Flight Instruction Intsrument
+* Flight Instructor Multi Engine
+</div>
 
 I built model airplanes as a 12yr old, only kid in my family that liked airplanes. I started to fly gliders at 14yrs of age and my first solo was in a glider at age 15 at the Great Western Soaring School in Pearblossom, CA - near Palmdale. I started flying powered airplanes at age 16 and received my private pilot certificate out of Van Nuys airport with DPE Adam Berg.
 
@@ -31,7 +44,7 @@ I continued working and studying for my commercial and finally received my fligh
 
 I now have about 17,000 hours, 2700 multi-engine, tail wheel instructor, basic aerobatic instructor and also earned my A&P Certificate (FAA Licensed Airframe and Powerplant Mechanic).
 
-You can find me out at the Hemet-Ryan Airfield where I serve as the Chief Flight Instructor of the <a href="http://hemetflightcenter.com">Hemet Flight Center</a>.
+You can find me out at the Hemet-Ryan Airfield where I serve as the Chief Flight Instructor of the <a href="http://flyhemet.com">Hemet Ryan Flight School</a>.
 
 <strong>You can contact me at <a href="mailto:embirdman@yahoo.com">embirdman@yahoo.com</a> or 951.663.0668.</strong>
 </div>
@@ -90,8 +103,6 @@ You can find me out at the Hemet-Ryan Airfield where I serve as the Chief Flight
 
 * IACRA Website: "http://iacra.faa.gov/iacra/":http://iacra.faa.gov/iacra/
 * FAA: "http://www.faa.gov":http://www.faa.gov
-* Hemet Flight Center: "http://hemetflightcenter.com":http://hemetflightcenter.com
+* Hemet Ryan Flight School: "http://flyhemet.com":http://flyhemet.com
 * EAA: "http://www.eaa.org":http://www.eaa.org
-* AOPA (Aircraft Owners and Pilots Association): "http://www.aopa.org/":http://www.aopa.org/
-
-
+* AOPA (Aircraft Owners and Pilots Association): "http://www.aopa.org/":http://www.aopa.org

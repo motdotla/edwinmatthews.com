@@ -41,6 +41,13 @@ img.photo {
 	margin-bottom: 20px;
 }
 
+.designated_flight_instructor {
+  padding: 20px;
+/*  background: #c5c5c5;*/
+  border: 3px solid #000033;
+  margin-bottom: 30px;
+  font-style: italic;
+}
 #page{
 	padding:0;
 	background:url(/images/page-bg.gif) repeat-x 0 0;
