@@ -26,7 +26,7 @@ p(catchphrase). Welcome to Flying Start Aviation Website. You have found a good 
 <strong>My name is <a href="mailto:embirdman@yahoo.com">Edwin J. Matthews</a>, a flight instructor since 1973, and now a designated pilot examiner.</strong> I'm a dedicated flight instructor who strives to help everyone reach their personal goals in the exciting world of flight. From weekender sport pilot to commercial pilot, or flight instructor, you owe it to yourself to give me a call or email me with any questions you might have. You'll be glad you did!
 
 <div class="designated_flight_instructor">
-As a designed flight instructor I can also give check rides in the following areas. <strong>Checkrides are just $500.</strong>
+As a designed flight instructor I can give check rides in the following areas. <strong>Checkrides are just $500.</strong>
 * Private Pilot
 * Sport Pilot
 * Commerical Pilot
